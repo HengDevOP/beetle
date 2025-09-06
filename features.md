@@ -1,4 +1,4 @@
-# Beetle Product Features
+# Greeting Welcome Message
 
 | Command Name | Aliases | Descriptions |
 |----------|----------|----------|
